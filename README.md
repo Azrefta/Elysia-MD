@@ -54,5 +54,5 @@ Kontribusi pada proyek ini hanya diterima jika sesuai dengan ketentuan lisensi d
 
 ## Kontak
 Jika Anda memiliki pertanyaan atau memerlukan bantuan, hubungi saya melalui:
-- **Email:** roffi@email.com
-- **GitHub:** [https://github.com/username](https://github.com/username)
+- **Email:** azrefta@gmail.com
+- **GitHub:** [https://github.com/Azrefta](https://github.com/Azrefta)
