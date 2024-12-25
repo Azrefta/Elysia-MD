@@ -20,7 +20,7 @@ Bot WhatsApp ini dirancang untuk memberikan berbagai fitur kompleks dan fungsion
 ## Instalasi
 1. **Clone repositori ini**:
    ```bash
-   git clone [https://github.com/username/whatsapp-bot-azrefta.git](https://github.com/Azrefta/Elysia-MD.git)
+   git clone https://github.com/Azrefta/Elysia-MD.git
    ```
 2. **Masuk ke direktori proyek**:
    ```bash
