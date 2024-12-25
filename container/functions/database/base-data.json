@@ -231,5 +231,8 @@
         "limit": "30",
         "prefix": true,
         "language": "id"
+    },
+    "settings": {
+        "homo": false
     }
 }
